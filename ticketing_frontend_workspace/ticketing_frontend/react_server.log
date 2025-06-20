@@ -23,3 +23,33 @@ modules by path ./.ve/ 15.1 KiB
     ./node_modules/css-loader/dist/cjs.js!./.ve/EditorOverlay.css 697 bytes [built] [code generated]
   ./.ve/EditorOverlay.jsx 1.58 KiB [built] [code generated]
 webpack 5.99.9 compiled successfully in 1419 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.45 MiB
+  asset bundle.js 1.42 MiB [emitted] (name: main)
+  asset main.9d8ddd2472658f30d9c9.hot-update.js 30.4 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.9d8ddd2472658f30d9c9.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.45 MiB = bundle.js 1.42 MiB main.9d8ddd2472658f30d9c9.hot-update.js 30.4 KiB
+cached modules 1.26 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+./src/App.js 22.1 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 208 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.42 MiB
+  asset bundle.js 1.42 MiB [emitted] (name: main)
+  asset main.67c0f7ea504dcb56563e.hot-update.js 4.71 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.67c0f7ea504dcb56563e.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.42 MiB = bundle.js 1.42 MiB main.67c0f7ea504dcb56563e.hot-update.js 4.71 KiB
+cached modules 1.28 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+./node_modules/css-loader/dist/cjs.js!./src/App.css 2.24 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 41 ms
+assets by status 1.98 KiB [cached] 1 asset
+assets by path *.js 1.43 MiB
+  asset bundle.js 1.42 MiB [emitted] (name: main)
+  asset main.4123ad49da56883f017e.hot-update.js 7.2 KiB [emitted] [immutable] [hmr] (name: main)
+asset main.4123ad49da56883f017e.hot-update.json 28 bytes [emitted] [immutable] [hmr]
+Entrypoint main 1.43 MiB = bundle.js 1.42 MiB main.4123ad49da56883f017e.hot-update.js 7.2 KiB
+cached modules 1.28 MiB [cached] 41 modules
+runtime modules 27.5 KiB 14 modules
+./node_modules/css-loader/dist/cjs.js!./src/App.css 4.59 KiB [built] [code generated]
+webpack 5.99.9 compiled successfully in 33 ms
