@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/anonsupport-28811-d7e564f2/ticketing_backend_workspace/ticketing_backend"
+}
